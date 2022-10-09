@@ -1,6 +1,6 @@
 /*
-    Name : Kansagara Kush;
-    ID   : 21CE051
+    Name : Rushit Rabadiya
+    ID   : 21CE111
 */
 import java.util.*;
 class Stud implements Comparable<Stud>
@@ -28,7 +28,7 @@ class Stud implements Comparable<Stud>
 class Practical7_1 {
     public static void main(String[] args) {
         Stud[] s = new Stud[4];
-        s[0] = new Stud("KUSH", 18, 35);
+        s[0] = new Stud("RUSHIT", 18, 35);
         s[1] = new Stud("PARAM", 19, 94);
         s[2] = new Stud("JENIL", 20, 53);
         s[3] = new Stud("DEV", 21, 82);
